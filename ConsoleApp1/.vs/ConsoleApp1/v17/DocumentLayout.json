@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\New_project\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1860A590-22F8-4D33-8316-FB3CB305E15D}|ConsoleApp1.csproj|c:\\users\\hp\\documents\\new_project\\consoleapp1\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1860A590-22F8-4D33-8316-FB3CB305E15D}|ConsoleApp1.csproj|solutionrelative:palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1860A590-22F8-4D33-8316-FB3CB305E15D}|ConsoleApp1.csproj|c:\\users\\hp\\documents\\new_project\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1860A590-22F8-4D33-8316-FB3CB305E15D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1860A590-22F8-4D33-8316-FB3CB305E15D}|ConsoleApp1.csproj|c:\\users\\hp\\documents\\new_project\\consoleapp1\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1860A590-22F8-4D33-8316-FB3CB305E15D}|ConsoleApp1.csproj|solutionrelative:dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1860A590-22F8-4D33-8316-FB3CB305E15D}|ConsoleApp1.csproj|c:\\users\\hp\\documents\\new_project\\consoleapp1\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1860A590-22F8-4D33-8316-FB3CB305E15D}|ConsoleApp1.csproj|solutionrelative:matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\New_project\\ConsoleApp1\\Matrix.cs",
+              "RelativeDocumentMoniker": "Matrix.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\New_project\\ConsoleApp1\\Matrix.cs",
+              "RelativeToolTip": "Matrix.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T09:27:15.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Palindrome.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\New_project\\ConsoleApp1\\Palindrome.cs",
+              "RelativeDocumentMoniker": "Palindrome.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\New_project\\ConsoleApp1\\Palindrome.cs",
+              "RelativeToolTip": "Palindrome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:01:18.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\New_project\\ConsoleApp1\\Dictionary.cs",
+              "RelativeDocumentMoniker": "Dictionary.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\New_project\\ConsoleApp1\\Dictionary.cs",
+              "RelativeToolTip": "Dictionary.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:25:57.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\New_project\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\New_project\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:13:18.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\New_project\C#programs\bin\Debug\net8.0\C#programs.exe
+C:\Users\HP\Documents\New_project\C#programs\bin\Debug\net8.0\C#programs.deps.json
+C:\Users\HP\Documents\New_project\C#programs\bin\Debug\net8.0\C#programs.runtimeconfig.json
+C:\Users\HP\Documents\New_project\C#programs\bin\Debug\net8.0\C#programs.dll
+C:\Users\HP\Documents\New_project\C#programs\bin\Debug\net8.0\C#programs.pdb
+C:\Users\HP\Documents\New_project\C#programs\obj\Debug\net8.0\C#programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\New_project\C#programs\obj\Debug\net8.0\C#programs.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\New_project\C#programs\obj\Debug\net8.0\C#programs.AssemblyInfo.cs
+C:\Users\HP\Documents\New_project\C#programs\obj\Debug\net8.0\C#programs.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\New_project\C#programs\obj\Debug\net8.0\C#programs.dll
+C:\Users\HP\Documents\New_project\C#programs\obj\Debug\net8.0\refint\C#programs.dll
+C:\Users\HP\Documents\New_project\C#programs\obj\Debug\net8.0\C#programs.pdb
+C:\Users\HP\Documents\New_project\C#programs\obj\Debug\net8.0\C#programs.genruntimeconfig.cache
+C:\Users\HP\Documents\New_project\C#programs\obj\Debug\net8.0\ref\C#programs.dll
